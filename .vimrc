@@ -7,12 +7,7 @@ syntax on
 filetype plugin indent on
 set number
 set laststatus=2
-
-if has('gui_running')
-	set background=dark
-else
-	set background=light
-endif
+set background=dark
 colorscheme solarized
 set expandtab ts=4 sw=4 ai
 
