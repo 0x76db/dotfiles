@@ -8,7 +8,7 @@ filetype plugin indent on
 set number
 set laststatus=2
 set background=dark
-colorscheme solarized
+colorscheme darkblue
 set expandtab ts=4 sw=4 ai
 
 map <C-e> :NERDTreeToggle<cr>
