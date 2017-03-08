@@ -10,5 +10,7 @@ set laststatus=2
 set background=dark
 colorscheme darkblue
 set expandtab ts=4 sw=4 ai
+set autoindent
+set cindent
 
 map <C-e> :NERDTreeToggle<cr>
